@@ -38,7 +38,7 @@ No part of this Whitepaper is to be copied, reproduced, distributed or dissemina
 
 <!-- MarkdownTOC depth=4 autolink=true bracket=round list_bullets="-*+" -->
 
-- [Chapter 1: Introduction](#Chapter-1:-Introduction)
+- [Chapter 1: Introduction](#chapter-1:-introduction)
   * [1.1 The Status Quo](#1.1-The-Status-Quo)
   * [1.2 Our Mission](#)
 - [Chapter 2: Problems and Potentials](#)
