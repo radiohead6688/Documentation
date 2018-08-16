@@ -4,5 +4,7 @@
 - [WhitePaper](whitepaper.pdf)
 - [TechnicalWhitePaper](TechnicalWhitePaper.md)
 
-# GSENetwork Road Map
+## GSENetwork RoadMap
 - [Road Map](GSERoadMap.md)
+
+## Other Docs
