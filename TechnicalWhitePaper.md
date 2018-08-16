@@ -1,0 +1,48 @@
+# GSENetwork Technical White Paper V1.0
+
+GSENetwork is a decentralized trust network for sharing economies that will disrupt the traditional model, eliminating the need for centralized intermediaries, through a three-pillar solution - DService, Incentive Model and Trust Network. GSENetwork envisions the future of the sharing economy as a global decentralized network which will seamlessly connect the interactions of every user, asset or service in the sharing economies anywhere in the world.
+
+<!-- MarkdownTOC depth=4 autolink=true bracket=round list_bullets="-*+" -->
+
+- [Introduction](#)
+  * [The Status Quo](#)
+  * [Our Mission](#)
+- [Problems and Potentials](#)
+  * [Problems of the Current Sharing Economy](#)
+  * [Unleashing the Potentials of the Sharing Economy](#)
+- [The Decentralized Sharing Economy Network](#)
+  * [Using Blockchain Technology as the Enabler](#)
+  * [The Evolution of the Sharing Economy](#)
+- [Decentralized Service (DService)](#)
+  * [Introduction to DService](#)
+  * [Mainchain Layer](#)
+    + [Introduction](#)
+    + [DPoS Consensus Algorithm](#)
+  * [DService Layer](#)
+    + [Foundational Contract Module](#)
+    + [Multi-Dimensional User Profile Rating System](#)
+    + [Order Dispatch Module](#)
+    + [Anti-Fraud Module](#)
+    + [Pricing Module](#)
+  * [Application Layer](#)
+- [Incentive Model](#)
+  * [Getting Incentives Right](#)
+  * [Incentives in Sharing Economy](#)
+    + [Membership Externality](#)
+    + [Usage Externality](#)
+    + [Information Externality](#)
+  * [Design of Green-Mining as an Incentive](#)
+- [Trust Network](#)
+  * [Introduction of Trust and Why it is Important](#)
+  * [Principles of the Trust Model and Types of Trust](#)
+  * [Recording of Trust onto Blockchain](#)
+  * [Trust Generation Rules](#)
+  * [IoT Device Governance](#)
+  * [Trust Score](#)
+- [Tokenomics](#)
+  * [GSE Token](#)
+  * [Production Rate of GSE](#)
+  * [Distribution of GSE based on workload](#)
+  * [Features of GSE Token](#)
+
+<!-- /MarkdownTOC -->
