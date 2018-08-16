@@ -38,8 +38,8 @@ No part of this Whitepaper is to be copied, reproduced, distributed or dissemina
 
 <!-- MarkdownTOC depth=4 autolink=true bracket=round list_bullets="-*+" -->
 
-- [Chapter 1: Introduction](#Introduction)
-  * [1.1 The Status Quo](#)
+- [Chapter 1: Introduction](#Chapter-1:-Introduction)
+  * [1.1 The Status Quo](#1.1-The-Status-Quo)
   * [1.2 Our Mission](#)
 - [Chapter 2: Problems and Potentials](#)
   * [2.1 Problems of the Current Sharing Economy](#)
@@ -101,6 +101,76 @@ However, problems have also surfaced with the rapid growth of the sharing econom
 GSENetwork aims to tap on the huge potential of the sharing economy and champion the growth and transformation of the global sharing economy to create an interdependent network of users and providers.
 
 ## 1.2 Our Mission
+Our mission is to create a decentralized trust network for the sharing economies based on blockchain technology.
+
+By focusing on the global sharing economy as our launch pad, we aim to build a decentralized trust network to solve trust issues that has burdened the growth and proliferation of the sharing economy. We envision that GSE network will seamlessly connect the interactions of every user, asset or service anywhere in the world.
+
+# Chapter 2: Problems and Potentials
+
+## 2.1 Problems of the Current Sharing Economy
+
+With the exponential increase in the rate of adoption of the Internet over the past two decades, it became a platform that facilitated the genesis and rise of the sharing economy. Driven by a shift of emerging trends, the quest for new experiences, economic benefits, increased environmental and social awareness, the sharing economy has seen phenomenal growth.
+
+For advocates of decentralization, the sharing economy is utopia made real - peers transact directly with peers, avoiding governmental or corporate intermediaries. It has proven a boon to regular income earners, allowing them to profit from under-utilized assets like extra apartment space or spare bikes and cars. It has also transformed the employment market, opening up avenues for micro-entrepreneurs to better utilize their skills, resources and services (for example being an instructor on Udemy or being a part-time on-demand taxi driver). Overall, the sharing economy has been widely beneficial to it’s participants, offering additional income, providing them with more flexibility and autonomy in the manners in which they choose to work whilst enabling better coordination of underutilized assets in the economy.
+
+However, as the sharing economy continues to grow in scale, so have the associated challenges and obstacles. The urgent goal is to fix the key issues that have hindered the growth of the sharing economy.
+
+**High intermediary fees**
+
+At its core, the sharing economy encourages the efficient utilization of resources to build social capital. The current structure of the sharing economy business model is made up of centralized platforms which gather and package resources to cater to consumers and providers, charging both parties high intermediary fees for this service. For instance, Uber now charges drivers an astounding 20 percent and consumers 10 percent of the ride charges for every completed ride and Airbnb generally charges hosts a 3 percent service fee and guests a service fee of up to 20 percent. In addition, the increment of these fees are also at the discretion of these intermediaries.
+
+**Trust Gap**
+
+Not even the unicorns of the sharing economy have escaped controversies that threatened trust in their users, the platforms and the products (rides and rentals). Uber has made headlines over drivers’ dissatisfaction and Airbnb has had to deal with a myriad of complaints as well.
+
+A survey done by a travel blog Asher & Lyric showed that in 2016, Airbnb recorded nearly 80 million stays, out of which 3 to 7 percent of them became guest horror stories such as last minute cancellations by hosts, mismatched expectations, scams and fake listings or reviews.
+
+In fact, Goldman Sachs Research’s report “Blockchain: Putting Theory into Practice” has stated that the adoption of P2P lodging sites like Airbnb are being hindered by concerns about safety and security (guests) and property damage (hosts) and they have cited Blockchain technology as a solution to these problems. It is evident that the key underlying challenge is ascertaining that the two transacting parties are acting in good faith.
+
+**Monopolistic and fragmented landscape**
+
+When a company has conquered a significant market share, the lack of industry competition may lead to complacency and a self-beneficial strategy which creates a disconnect between the brand and their consumers.
+
+In addition, the first-generation sharing economy landscape is largely fragmented with a lack of transparency. There are a variety of platforms that share the same product offerings but a user would have to visit each of them individually to assess the most suitable deals. For instance, booking the same hotel room may yield different prices on Expedia and Hotelbooking.com.
+
+On top of that, a user is required to register a new account for every platform he visits. This means every platform will own a set of the user’s data and would have the potential to misuse the data without the knowledge of the user.
+
+**Lack of risk mitigation**
+
+In the event of disputes between the provider or user, the intermediary should have a mediator role to play. Yet often, the process to get assistance is not straightforward. Other factors such as human bias, discrimination and poor judgement may come into play that could cloud a central arbitration process.
+
+## 2.2 Unleashing the Potentials of the Sharing Economy
+
+PWC forecasted the global revenue of the sharing economy to hit $350 billion by 2025, expecting factors like trust, convenience and a sense of community to push the adoption of the sharing economy. Juniper Research identified 3 industries in the sharing economy that they have termed as “ripe for disruption”, forecasted significant growth specifically in shared transport, shared space and shared logistics.
+
+In 2016, The Yano Research Institute estimated that transactions on Japan’s sharing platforms would grow from 29 billion yen ($260 million) to around 60 billion yen ($540 million) by 2020 (Takeo, 2017). In China, the government promotes sharing to “improve efficiencies in resource usage” and “[make] people more affluent”: its Sharing Economy Research Institute suggests the market value of China’s sharing activity will grow at 40 percent per year and account for 10 percent of GDP by 2020 (Yan, 2017). In essence, the 3 main factors that will continue to drive the advancement and evolution of the sharing economy are:
+
+    * Increased participation rates in the sharing economy resulting in increased demand and supply
+    * Rise of integrated communications and transaction platforms such as WeChat Pay and Alipay to
+      enable greater user convenience
+    * Deeper penetration of Internet of Things to make the sharing economy more user-friendly and
+      efficient
+
+Our team strongly believes that the sharing economy is a powerful economic sector that will continue to exhibit exponential growth and it has contributed some of the most impactful innovations that have enhanced the consumer experience greatly since its advent in the last decade.
+
+Hence, there is an urgent need to disrupt this first-generation sharing economy by plugging the gaps to pave the way for the second-generation sharing economy.
+
+# Chapter 3: The Decentralized Sharing Economy Network
+
+## 3.1 Using Blockchain Technology as the Enabler
+
+Blockchain facilitates the secure exchange of value in a decentralized manner, removing the need for a central intermediary. The unique proposition of blockchain technology is its ability to run software applications (smart contracts) in a secure and decentralized peer-to-peer network that is not controlled by a central party. Fundamentally, blockchain-based applications are able to govern, allocate and coordinate resources and activities, as well as facilitate interactions of all participants without central arbitration.
+
+These features are perfectly aligned with our vision for the sharing economy - a decentralized structure which encourages usage of the platform through distribution of rewards. By removing the intermediary, the externality value produced will be redistributed to those who contributed to its value creation. We believe that a decentralized sharing economy will truly bring out the concept of a true sharing economy, facilitating the creation of more innovative and community-driven applications, while rewarding bona fide participants.
+
+## 3.2 The Evolution of the Sharing Economy
+
+
+
+
+
+
+
 
 
 
