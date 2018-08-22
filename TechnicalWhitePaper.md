@@ -4,8 +4,8 @@ GSENetwork is a decentralized trust network for sharing economies that will disr
 
 <!-- MarkdownTOC depth=4 autolink=true bracket=round list_bullets="-*+" -->
 
-- [Introduction](#)
-  * [The Status Quo](#)
+- [Introduction](#introduction)
+  * [The Status Quo](#thestatusquo)
   * [Our Mission](#)
 - [Subchain](#)
   * [Problems of the Current Sharing Economy](#)
@@ -46,3 +46,7 @@ GSENetwork is a decentralized trust network for sharing economies that will disr
   * [Features of GSE Token](#)
 
 <!-- /MarkdownTOC -->
+
+
+# Introduction
+# The Status Quo
