@@ -5,48 +5,37 @@ GSENetwork is a decentralized trust network for sharing economies that will disr
 <!-- MarkdownTOC depth=4 autolink=true bracket=round list_bullets="-*+" -->
 
 - [Introduction](#introduction)
-  * [The Status Quo](#thestatusquo)
-  * [Our Mission](#)
-- [Subchain](#)
-  * [Problems of the Current Sharing Economy](#)
-  * [Unleashing the Potentials of the Sharing Economy](#)
-- [The Decentralized Sharing Economy Network](#)
-  * [Using Blockchain Technology as the Enabler](#)
-  * [The Evolution of the Sharing Economy](#)
+- [Blockchain Infrastructure](#blockchain-infrastructure)
+  * [Root Chain](#root-chain)
+  * [Sub Chain](#)
+- [Consensus Mechanism](#)
+  * [Consensus between Root and Sub Chain](#)
+  * [Consensus within Chain](#)
 - [Decentralized Service (DService)](#)
-  * [Introduction to DService](#)
-  * [Mainchain Layer](#)
-    + [Introduction](#)
-    + [DPoS Consensus Algorithm](#)
-  * [DService Layer](#)
-    + [Foundational Contract Module](#)
-    + [Multi-Dimensional User Profile Rating System](#)
-    + [Order Dispatch Module](#)
-    + [Anti-Fraud Module](#)
-    + [Pricing Module](#)
-  * [Application Layer](#)
-- [Incentive Model](#)
-  * [Getting Incentives Right](#)
-  * [Incentives in Sharing Economy](#)
-    + [Membership Externality](#)
-    + [Usage Externality](#)
-    + [Information Externality](#)
-  * [Design of Green-Mining as an Incentive](#)
-- [Trust Network](#)
-  * [Introduction of Trust and Why it is Important](#)
-  * [Principles of the Trust Model and Types of Trust](#)
-  * [Recording of Trust onto Blockchain](#)
-  * [Trust Generation Rules](#)
-  * [IoT Device Governance](#)
-  * [Trust Score](#)
+    * [Introduction to DService](#)
+    * [Multi-Dimensional User Profile Rating System](#)
+    * [Order Dispatch Module](#)
+    * [Anti-Fraud Module](#)
+    * [Pricing Module](#)
+- [Trust Framework](#) 
+  * [Trust Model](#)
+  * [Trust Algorithm](#)
+- [P2P Network](#)
+  * [Sharing Data across Chains](#)
+  * [P2P Network Mechanism](#)
+-  [GSENetwork Virtual Machine (GVM)](#)
+  * [Fees Model](#)
 - [Tokenomics](#)
   * [GSE Token](#)
   * [Production Rate of GSE](#)
   * [Distribution of GSE based on workload](#)
-  * [Features of GSE Token](#)
+  
+  
 
 <!-- /MarkdownTOC -->
 
-
 # Introduction
-# The Status Quo
+
+# Blockchain Infrastructure
+## Root Chain
+
