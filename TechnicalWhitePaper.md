@@ -23,6 +23,8 @@ GSENetwork is a decentralized trust network for sharing economies that will disr
 - [P2P Network](#)
   * [Sharing Data across Chains](#)
   * [P2P Network Mechanism](#)
+- [Producer Module](#)
+  * [Producer Rules](#)
 -  [GSENetwork Virtual Machine (GVM)](#)
   * [Fees Model](#)
 - [Tokenomics](#)
@@ -39,3 +41,7 @@ GSENetwork is a decentralized trust network for sharing economies that will disr
 # Blockchain Infrastructure
 ## Root Chain
 
+# Producer Module
+## Producer Rules
+
+Genesis block timestamp is UTC: 2018-10-01 00:00:00. The block interval is 2000ms. Each block contains 750 transactions.
